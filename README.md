@@ -10,8 +10,11 @@ This README provides detailed documentation on using XPath expressions for navig
 **Table of Contents**
 
 XPath Axes: Preceding and Following
+
 XPath Axes: Ancestor and Descendant Relationship
+
 XPath Axes: Parent and Child Relation
+
 Dynamic Elements: Elements with Dynamic Property-Values and/or Text
 
 **XPath Axes: Preceding and Following**
